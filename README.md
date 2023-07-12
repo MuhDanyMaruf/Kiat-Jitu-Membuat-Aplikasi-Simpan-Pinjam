@@ -29,6 +29,6 @@ Muh. Dany Maruf Riadi lahir pada tanggal 13 September 2003 di kota Unaha. Ia ber
 Cahyo Prianto S.Pd.,M.T.Ia sudah menyelesikan pendidikan S1 Universitas Pendidikan Indonesia  di bidang Fisika, serta  menyelesaikan S2 di Institut Teknologi Bandung dalam di bidang Teknik Elektro.
 
 
-link katalog:
+link katalog: https://katalog.bukupedia.co.id/2023/07/kiat-jitu-membuat-aplikasi-simpan-pinjam.html
 
 Link profile penulis :

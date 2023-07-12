@@ -6,7 +6,10 @@ Aplikasi ini bertujuan untuk menyediakan platform yang aman, nyaman, dan terperc
 Pada aplikasi simpan pinjam ini anggota melakukan transaksi seperti pada bank formal, yang dimana anggota yang telah mendaftarkan diri pada aplikasi ini melalui operator dapat melakukan transaksi pinjaman, simpanan, dan penarikan dana.
 Jika seseorang ingin mendaftar untuk menjadi anggota dalam aplikasi ini, orang tersebut diwajibkan melakukan setoran awal dengan nominal yang telah ditentukan oleh admin.
 
-# Profil Penulis
+
+
+
+# Profil Penulis :
 # Wafid Adzka Haifan Mukhayyar
 ![Penulis-2](https://github.com/bukped/Kiat-Jitu-Membuat-Aplikasi-Simpan-Pinjam/assets/114630218/9bb361b5-83fd-45ea-98c6-9831d90be997)
 

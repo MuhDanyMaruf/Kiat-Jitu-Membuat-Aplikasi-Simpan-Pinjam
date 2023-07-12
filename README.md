@@ -31,4 +31,5 @@ Cahyo Prianto S.Pd.,M.T.Ia sudah menyelesikan pendidikan S1 Universitas Pendidik
 
 link katalog: https://katalog.bukupedia.co.id/2023/07/kiat-jitu-membuat-aplikasi-simpan-pinjam.html
 
-Link profile penulis :
+Link profile penulis : https://penulis.bukupedia.co.id/2023/07/wafid-adzka-haifan-mukhayyar.html
+

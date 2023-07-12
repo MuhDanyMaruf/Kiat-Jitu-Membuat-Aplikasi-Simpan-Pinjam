@@ -1,4 +1,4 @@
-# Judul Buku : Kiat Jitu Membuat Aplikasi Simpan Pinjam
+# Kiat Jitu Membuat Aplikasi Simpan Pinjam
 ![1](https://github.com/bukped/Kiat-Jitu-Membuat-Aplikasi-Simpan-Pinjam/assets/114630218/23abc517-9c57-4f05-bb60-9a7dd62b7b1e)
 
 Sinopsis : PinjamApp adalah sebuah aplikasi atau website yang dirancang untuk memudahkan proses simpan pinjam bagi pengguna. 
